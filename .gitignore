@@ -1,0 +1,6 @@
+/.idea/
+/.mvn/
+/target/
+b.txt
+*.iml
+pom.xml
